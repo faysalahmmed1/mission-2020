@@ -29,3 +29,52 @@ section{
 h1{
     text-align: center;
 }
+.atom{
+    width: 30%;
+    padding-left: 10%;
+    padding-right: 10%;
+
+}
+.atom{
+   box-shadow: 10px 10px 15px blueviolet;
+   margin-left: 5px;
+   margin-right: 5px;
+   padding-left: 15;
+}
+.boom{
+    width: 50%;
+    padding-bottom: 20;
+    padding-left: 10%;
+}
+.boom img{
+    width: 100%;
+}
+.tom{
+    width: 50%;
+    padding-left: 10%;
+}
+.tom img{
+    width: 100%;
+}
+.rafi{
+    font-size: 20px;
+    background-color: blue;
+}
+h3{
+    text-align: center;
+}
+h3{
+    text-align: center;
+    background-color: rgb(124, 79, 79)
+    
+}
+.class{
+    text-align: center;
+}
+.student{
+    width: 50%;
+    padding-left: 10%;
+}
+.student img{
+    width: 80%;
+}
