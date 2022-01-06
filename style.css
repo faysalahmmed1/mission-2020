@@ -1,0 +1,31 @@
+body{
+    font-family: 'Roboto Slab', serif;
+}
+h1{
+    font-size: 50px;
+}
+.stdio{
+    color: rgb(38, 255, 56);
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 8%;
+}
+.half-width img{
+    width: 80%;
+}
+.link{
+    text-decoration: none;
+    background-color: yellowgreen;
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 10px;
+    
+}
+h1{
+    text-align: center;
+}
