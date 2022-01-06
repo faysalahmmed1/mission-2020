@@ -16,6 +16,7 @@ section{
 }
 .half-width img{
     width: 80%;
+    border-radius: 40%;
 }
 .link{
     text-decoration: none;
@@ -34,12 +35,17 @@ h1{
     padding-left: 10%;
     padding-right: 10%;
 
+
 }
 .atom{
    box-shadow: 10px 10px 15px blueviolet;
    margin-left: 5px;
    margin-right: 5px;
    padding-left: 15;
+}
+.atom img{
+    width: 80%;
+    padding-left: 2%;
 }
 .boom{
     width: 50%;
@@ -48,6 +54,7 @@ h1{
 }
 .boom img{
     width: 100%;
+    border-radius: 40%;
 }
 .tom{
     width: 50%;
@@ -55,6 +62,7 @@ h1{
 }
 .tom img{
     width: 100%;
+    border-radius: 40%;
 }
 .rafi{
     font-size: 20px;
